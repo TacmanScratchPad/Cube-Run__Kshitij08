@@ -1,6 +1,8 @@
 # Cube-Run
 The game was created using Unity
 
+Update to 2021.3, but Logs and Library need to be removed from the repo
+
 ---
 ## Screenshots of the Game
 ![cube run 1](https://user-images.githubusercontent.com/36204389/47603476-f2ed5100-da09-11e8-9d69-5fdc5e0a549f.PNG)
